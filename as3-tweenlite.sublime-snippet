@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-TweenLite.to($1,$2,{$3});
+TweenLite.to(${1:target},${2:seconds},{${3:params}});
 ]]></content>
-	<tabTrigger>tweemlite</tabTrigger>
+	<tabTrigger>tweenlite</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>
