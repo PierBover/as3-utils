@@ -6,6 +6,6 @@
 //
 ///////////////////////////////////////////////////////
 ]]></content>
-	<tabTrigger>sect</tabTrigger>
+	<tabTrigger>section</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>
