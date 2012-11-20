@@ -2,6 +2,6 @@
 	<content><![CDATA[
 TweenLite.to($1,$2,{$3});
 ]]></content>
-	<tabTrigger>tw</tabTrigger>
+	<tabTrigger>tweemlite</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>
