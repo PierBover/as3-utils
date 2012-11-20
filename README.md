@@ -11,6 +11,7 @@ So far:
     - So far only required parameters are included in the snippets, optional parameters are ignored.
 
 
+
 Next features:
   - Documentation search directly from Sublime Text
   - Events completions (eg: MouseEvent.MOUSE_DOWN)
