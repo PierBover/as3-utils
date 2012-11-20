@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[public function ${1:function_name}(${2:argument})${3::void} {
+	${0:// body...}
+}]]></content>
+    <tabTrigger>function</tabTrigger>
+    <scope>source.actionscript.3</scope>
+    <description>Function</description>
+</snippet>

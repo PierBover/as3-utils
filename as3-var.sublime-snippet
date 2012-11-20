@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var $1:${2:Sprite} = new $2(); $3
+
+]]></content>
+	<tabTrigger>var</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>
+
+

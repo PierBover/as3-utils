@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+TweenLite.to($1,$2,{$3});
+]]></content>
+	<tabTrigger>tw</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>

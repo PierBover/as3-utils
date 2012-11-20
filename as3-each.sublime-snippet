@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[for each (var ${1:item} in ${2:items}) {
+	$3
+}
+]]></content>
+	<tabTrigger>for each</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>
+
+
