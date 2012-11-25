@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+setTimeout(${1:functionName}, ${2:delayMs}${3:, params});
+]]></content>
+	<tabTrigger>setTimeout</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>
+
+

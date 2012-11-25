@@ -22,6 +22,7 @@ So far:
     - Var snippet (trigger: var)
     - Comment section divider (trigger: section). It will create a nice comment block for visually organizing your methods (inits, event handlers, other, etc).
     - Trace snippet (trigger: trace)
+    - setTimeout snippet (trigger: setTimeout)
 
 
 
@@ -29,3 +30,4 @@ Next features:
   - Documentation search directly from Sublime Text
   - Events completions (eg: MouseEvent.MOUSE_DOWN)
   - Completions for Tweenlite easings
+  - Completions and snippets for AS3 Signals
