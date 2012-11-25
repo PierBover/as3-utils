@@ -818,7 +818,10 @@
 			"import flashx.undo.IUndoManager;",
 			"import flashx.undo.UndoManager;",
 //  TWEENLITE
-			{ "trigger": "tweenlite\timports" , "contents": "import com.greensock.TweenLite;\nimport com.greensock.plugins.*;\nimport com.greensock.easing.*;" }
+			{ "trigger": "tweenlite\timports" , "contents": "import com.greensock.TweenLite;\nimport com.greensock.plugins.*;\nimport com.greensock.easing.*;" },
+
+// SIGNALS
+			{"trigger": "signals\timport", "contents": "import org.osflash.signals.*;"}
 
         ]
 }
