@@ -75,7 +75,7 @@
 			"file": "as3-each.sublime-snippet",
 			"settings":
 			{
-				"buffer_size": 176,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -115,7 +115,7 @@
 			"file": "as3-section-comment.sublime-snippet",
 			"settings":
 			{
-				"buffer_size": 252,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -139,7 +139,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1496,
+				"buffer_size": 1500,
 				"line_ending": "Unix"
 			}
 		}
@@ -274,7 +274,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -308,7 +308,7 @@
 					"file": "as3-each.sublime-snippet",
 					"settings":
 					{
-						"buffer_size": 176,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -440,7 +440,7 @@
 					"file": "as3-section-comment.sublime-snippet",
 					"settings":
 					{
-						"buffer_size": 252,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -518,15 +518,15 @@
 					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 1496,
+						"buffer_size": 1500,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								785,
-								785
+								1144,
+								1144
 							]
 						],
 						"settings":
@@ -585,6 +585,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"rre",
+				"/Users/pier/Library/Application Support/Sublime Text 2/Packages/as3-utils/README.md"
+			],
 			[
 				"tou",
 				"Touche.as"

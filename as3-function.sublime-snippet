@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[public function ${1:function_name}(${2:argument})${3::void} {
+    <content><![CDATA[${1:public/private/protected/internal}${1/(pub$)|(pri$)|(pro$)|(int$)|.*/?1:lic:?2:vate:?3:tected:?4:ernal/i} function ${2:function_name}(${3:argument})${4::void} {
 	${0:// body...}
 }]]></content>
     <tabTrigger>function</tabTrigger>

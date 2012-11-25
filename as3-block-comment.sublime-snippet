@@ -2,10 +2,11 @@
 	<content><![CDATA[
 ///////////////////////////////////////////////////////
 //
-//		$1
+//		${1:block name}
 //
 ///////////////////////////////////////////////////////
+$2
 ]]></content>
-	<tabTrigger>section</tabTrigger>
+	<tabTrigger>block</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>
