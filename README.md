@@ -29,5 +29,7 @@ So far:
 Next features:
   - Documentation search directly from Sublime Text
   - Events completions (eg: MouseEvent.MOUSE_DOWN)
+  - Properties completions
+  - Optional method parameters completions
   - Completions for Tweenlite easings
   - Completions and snippets for AS3 Signals
