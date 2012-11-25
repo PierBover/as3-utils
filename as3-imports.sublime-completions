@@ -3,6 +3,8 @@
 
         "completions":
         [
+
+// ADOBE
 			"import adobe.utils.*;",
 			"import adobe.utils.CustomActions;",
 			"import adobe.utils.XMLUI;",
@@ -814,7 +816,9 @@
 			"import flashx.undo.*;",
 			"import flashx.undo.IOperation;",
 			"import flashx.undo.IUndoManager;",
-			"import flashx.undo.UndoManager;"
+			"import flashx.undo.UndoManager;",
+//  TWEENLITE
+			{ "trigger": "tweenlite\timports" , "contents": "import com.greensock.TweenLite;\nimport com.greensock.plugins.*;\nimport com.greensock.easing.*;" }
 
         ]
 }
