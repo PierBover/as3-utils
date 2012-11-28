@@ -1,8 +1,6 @@
-# as3-utils
+# AS3 Utils
 
-AS3 Utils package for Sublime Text 2 that enhances the deafult AS3 package. Still in beta, but everything works. I use this every day. I'm waiting to add more features before adding it to the package list of Package Control.
-
-# Features so far
+AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Still in beta, but everything works so far. I use this every day. I'm waiting to add more features before adding it to the package list of Package Control.
 
 ## Imports completions for all classes
 - You can write the name of the class (eg: Sprite) or the name of the folder (eg: events) and you will get a list of possible matches.
