@@ -12,12 +12,12 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
 
 ## Some useful snippets
   - <b>Class snippet</b> (trigger: class). It will create the default class structure, and use the name of the file for the class name and the constructor. For example MyClass.as will return MyClass. First save your file and then use the snippet.
-  - Function snippet (trigger: function). The access control keywords are "dynamic". The whole list will appear (public/private/protected/internal), but if you type "pub" "public" will get written, "pri" will write "private", etc. Then press tab again to go to the next tab cursor in the snippet.
-  - For each snippet (trigger: for each)
-  - Var snippet (trigger: var)
-  - Comment section divider (trigger: section). It will create a nice comment block for visually organizing your methods (inits, event handlers, other, etc).
-  - Trace snippet (trigger: trace)
-  - setTimeout snippet (trigger: setTimeout)
+  - <b>Function snippet</b> (trigger: function). The access control keywords are "dynamic". The whole list will appear (public/private/protected/internal), but if you type "pub" "public" will get written, "pri" will write "private", etc. Then press tab again to go to the next tab cursor in the snippet.
+  - <b>For each</b> snippet (trigger: for each)
+  - <b>Var snippet</b> (trigger: var). The access control keywords are "dynamic", just like the function snippet.
+  - <b>Comment block snippet</b> (trigger: block). It will create a nice comment block for visually organizing parts of your code.
+  - <b>Trace snippet</b> (trigger: trace)
+  - <b>setTimeout snippet</b> (trigger: setTimeout)
 
 ## Other great stuff
   - Some completions and snippets for the AS3 Signals framework (https://github.com/robertpenner/as3-signals)
