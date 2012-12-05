@@ -1,0 +1,8 @@
+{
+        "scope": "source.actionscript.3",
+
+        "completions":
+        [
+			// {"trigger": "floripondio", "contents": "Super Pepito"}
+        ]
+}

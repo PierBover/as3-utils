@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:public/private/protected/internal}${1/(pub$)|(pri$)|(pro$)|(int$)|.*/?1:lic:?2:vate:?3:tected:?4:ernal/i} var ${2:myVar}:${3:Sprite} = new $3(); $4
+${1:public/private/protected/internal}${1/(pub$)|(pri$)|(pro$)|(int$)|.*/?1:lic:?2:vate:?3:tected:?4:ernal/i} var ${2:myVar}:${3:Sprite} = new $3();
 ]]></content>
 	<tabTrigger>var</tabTrigger>
 	<scope>source.actionscript.3</scope>

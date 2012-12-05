@@ -6,5 +6,6 @@
 			{"trigger": "add\tSignal", "contents": "add(${1:handlerFunction});"},
 			{"trigger": "addOnce\tSignal", "contents": "addOnce(${1:handlerFunction});"},
 			{"trigger": "dispatch\tSignal", "contents": "dispatch(${1:parameter});"}
+			{"trigger": "removeAll\tSignal", "contents": "removeAll();"}
         ]
 }

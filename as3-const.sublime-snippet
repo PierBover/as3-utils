@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:public/private/protected/internal}${1/(pub$)|(pri$)|(pro$)|(int$)|.*/?1:lic:?2:vate:?3:tected:?4:ernal/i} const ${2:myVar}:${3:Number} = ${4:0};
+]]></content>
+	<tabTrigger>const</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>
+
+
