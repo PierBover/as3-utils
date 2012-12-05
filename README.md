@@ -15,11 +15,12 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
   - <b>Function snippet</b> (trigger: function). The access control keywords are "dynamic". The whole list will appear (public/private/protected/internal), but if you type "pub" "public" will get written, "pri" will write "private", etc. Then press tab again to go to the next tab cursor in the snippet.
   - <b>For each</b> snippet (trigger: for each)
   - <b>Var snippet</b> (trigger: var). The access control keywords are "dynamic", just like the function snippet.
+  - <b>Constant snippet</b> (trigger: const). Works exactly as the Var snippet.
   - <b>Comment block snippet</b> (trigger: block). It will create a nice comment block for visually organizing parts of your code.
   - <b>Trace snippet</b> (trigger: trace)
   - <b>setTimeout snippet</b> (trigger: setTimeout)
 
-## Other great stuff
+## Other great stuff in progress
   - Some completions and snippets for the AS3 Signals framework (https://github.com/robertpenner/as3-signals)
   - Some completions and snippets for the Tweenlite animation framework (https://www.greensock.com/tweenlite/)
 
