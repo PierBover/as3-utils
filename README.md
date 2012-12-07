@@ -9,6 +9,7 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
   - Write any method name and you will get a list of matches. As there are many duplicated results from different classes I've put the name of the class in the autocomplete list. For example "addChild" will throw differetn results, most likely you will want to use the one from "DisplayObjectContainer".
   - So far only required parameters are included in the snippets, optional parameters are ignored.
   - There are still some conflicts with compeltions from the current file... I got around this by installing the (very useful) All Autocomplete package available through Package Control.
+  - I've deliberately not included some classes that I personally have never used. The methods for those classes are included in the completions file, but commented out. If you find there is a method of some class you need, it is certainly there. Just uncomment it.
 
 ## Properties and Constants completions for all Adobe's classes
 - Completions for things such as numChildren, length, etc.
