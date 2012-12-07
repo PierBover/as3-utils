@@ -2,16 +2,16 @@
 
 AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Still in beta, but everything works so far. I use this every day. I'm waiting to add more features before adding it to the package list of Package Control.
 
-## Imports completions for all Adobe classes
+## Imports completions for all Adobe's classes
 - You can write the name of the class (eg: Sprite) or the name of the folder (eg: events) and you will get a list of possible matches. Obviously this only works in the imports section inside package but outside class.
 
-## Methods completions for all Adobe methods
+## Methods completions for all Adobe's methods
   - Write any method name and you will get a list of matches. As there are many duplicated results from different classes I've put the name of the class in the autocomplete list. For example "addChild" will throw differetn results, most likely you will want to use the one from "DisplayObjectContainer".
   - So far only required parameters are included in the snippets, optional parameters are ignored.
   - There are still some conflicts with compeltions from the current file... I got around this by installing the (very useful) All Autocomplete package available through Package Control.
 
-## Properties completions for all Adobe methods
-- Completions for things such as: numChildren, length, etc.
+## Properties completions for all Adobe's classes
+- Completions for things such as: numChildren, length, etc. I removed duplicates from different classes as there isn't uch sense in having the same string 2 times... which is different from the methods as they may have different parameters.
 
 ## Some useful snippets
   - <b>Class snippet</b> (trigger: class). It will create the default class structure, and use the name of the file for the class name and the constructor. For example MyClass.as will return MyClass. First save your file and then use the snippet.
