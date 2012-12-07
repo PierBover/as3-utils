@@ -10,8 +10,9 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
   - So far only required parameters are included in the snippets, optional parameters are ignored.
   - There are still some conflicts with compeltions from the current file... I got around this by installing the (very useful) All Autocomplete package available through Package Control.
 
-## Properties completions for all Adobe's classes
-- Completions for things such as: numChildren, length, etc. I removed duplicates from different classes as there isn't uch sense in having the same string 2 times... which is different from the methods as they may have different parameters.
+## Properties and Constants completions for all Adobe's classes
+- Completions for things such as numChildren, length, etc.
+- Completions for things such as events, math constants, textfield autosize, stage qality, etc. The trigger is the constant eg: MOUSE_DOWN will return MouseEvent.MOUSE_DOWN
 
 ## Some useful snippets
   - <b>Class snippet</b> (trigger: class). It will create the default class structure, and use the name of the file for the class name and the constructor. For example MyClass.as will return MyClass. First save your file and then use the snippet.
@@ -30,7 +31,6 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
 
 # Next features:
   - Documentation search directly from Sublime Text
-  - Events completions (eg: MouseEvent.MOUSE_DOWN)
   - Optional method parameters completions
-  - Completions for Tweenlite easings
+  - Completions for Tweenlite
   - Completions and snippets for AS3 Signals
