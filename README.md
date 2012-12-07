@@ -13,7 +13,7 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
 
 ## Properties and Constants completions for all Adobe's classes
 - Completions for things such as numChildren, length, etc.
-- Completions for things such as events, math constants, textfield autosize, stage qality, etc. The trigger is the constant eg: MOUSE_DOWN will return MouseEvent.MOUSE_DOWN
+- Completions for things such as events, math constants, textfield autosize, stage qality, etc. Eg: MouseEvent.MOUSE_DOWN
 
 ## Some useful snippets
   - <b>Class snippet</b> (trigger: class). It will create the default class structure, and use the name of the file for the class name and the constructor. For example MyClass.as will return MyClass. First save your file and then use the snippet.
