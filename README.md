@@ -3,7 +3,7 @@
 AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Still in beta, but everything works so far. I use this every day. I'm waiting to add more features before adding it to the package list of Package Control.
 
 ## Imports completions for all Adobe's classes
-- You can write the name of the class (eg: Sprite) or the name of the folder (eg: events) and you will get a list of possible matches. Obviously this only works in the imports section inside package but outside class.
+- You can write the name of the class (eg: Sprite) or the name of the folder (eg: display) and you will get a list of possible matches (eg: import flash.display.Sprite). This is scopped so you only get those compltions inside Package but outside Class.
 
 ## Methods completions for all Adobe's methods
   - Write any method name and you will get a list of matches. As there are many duplicated results from different classes I've put the name of the class in the autocomplete list. For example "addChild" will throw differetn results, most likely you will want to use the one from "DisplayObjectContainer".
