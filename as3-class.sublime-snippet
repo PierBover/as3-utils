@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 package {
-	import flash.display.${2:Sprite};
+	import flash.${2:display}.${3:Sprite};
 
-	public class ${TM_FILENAME/(.+)\..+|.*/$1/} extends ${2} {
+	public class ${TM_FILENAME/(.+)\..+|.*/$1/} extends ${3} {
 
 		public function ${TM_FILENAME/(.+)\..+|.*/$1/} (){
-			$3
+			$4
 		}
 	}
 }
