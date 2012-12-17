@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 package {
-	import flash.${2:display}.${3:Sprite};
+	import ${2:flash.}${3:display.}${4:Sprite};
 
-	public class ${TM_FILENAME/(.+)\..+|.*/$1/} extends ${3} {
+	public class ${TM_FILENAME/(.+)\..+/$1/} extends ${4} {
 
-		public function ${TM_FILENAME/(.+)\..+|.*/$1/} (){
-			$4
+		public function ${TM_FILENAME/(.+)\..+/$1/} (){
+			$0
 		}
 	}
 }
@@ -14,5 +14,3 @@ package {
 	<tabTrigger>class</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>
-
-

@@ -17,7 +17,7 @@ AS3 Utils package for Sublime Text 2 that enhances the default AS3 package. Stil
 
 ## Some useful snippets
   - <b>Class snippet</b> (trigger: class). It will create the default class structure, and use the name of the file for the class name and the constructor. For example MyClass.as will return MyClass. First save your file and then use the snippet.
-  - <b>Function snippet</b> (trigger: function). The access control keywords are "dynamic". The whole list will appear (public/private/protected/internal), but if you type "pub" "public" will get written, "pri" will write "private", etc. Then press tab again to go to the next tab cursor in the snippet.
+  - <b>Function snippet</b> (trigger: function). The access control keywords are "dynamic". The whole list will appear (public/private/protected/internal), but if you type "p" then "public" will get written, "pri" will write "private", etc. Then press tab again to go to the next tab cursor in the snippet.
   - <b>For each</b> snippet (trigger: for each)
   - <b>For in</b> snippet (trigger: for in)
   - <b>Var snippet</b> (trigger: var). The access control keywords are "dynamic", just like the function snippet.
