@@ -4,6 +4,7 @@ ${1:var }${2:varName} = (${3:condition}) ? ${4:value} : ${5:some other value};
 ]]></content>
 	<tabTrigger>terniary operator</tabTrigger>
 	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
 </snippet>
 
 

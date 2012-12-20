@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+while(${1:condition}){
+	$0
+}
+]]></content>
+	<description>AS3 Utils</description>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.actionscript.3</scope>
+</snippet>
+
+

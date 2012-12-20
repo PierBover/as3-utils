@@ -5,6 +5,7 @@
 ]]></content>
 	<tabTrigger>for each</tabTrigger>
 	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
 </snippet>
 
 

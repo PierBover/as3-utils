@@ -2,6 +2,7 @@
 	<content><![CDATA[
 ${1:public/private/protected/internal }${1/(p$)|(pri$)|(pro$)|(int$)|.*/?1:ublic:?2:vate:?3:tected:?4:ernal/i} ${2:static }var ${3:myVar}:${4:Sprite}${5: = new $4()};
 ]]></content>
+	<description>AS3 Utils</description>
 	<tabTrigger>var</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>

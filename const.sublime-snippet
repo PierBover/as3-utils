@@ -4,6 +4,7 @@ ${1:public/private/protected/internal}${1/(p$)|(pri$)|(pro$)|(int$)|.*/?1:ublic:
 ]]></content>
 	<tabTrigger>const</tabTrigger>
 	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
 </snippet>
 
 

@@ -2,6 +2,7 @@
 	<content><![CDATA[
 TweenLite.${1:to/from}${1/(t$)|(f$)|.*/?1:o:?2:rom/i}(${2:target},${3:seconds},{${4:params}});
 ]]></content>
+	<description>AS3 Utils</description>
 	<tabTrigger>tweenlite</tabTrigger>
 	<scope>source.actionscript.3</scope>
 </snippet>

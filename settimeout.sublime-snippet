@@ -4,6 +4,7 @@ setTimeout(${1:functionName}, ${2:delayMs}${3:, params});
 ]]></content>
 	<tabTrigger>setTimeout</tabTrigger>
 	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
 </snippet>
 
 

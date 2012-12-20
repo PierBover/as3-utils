@@ -4,5 +4,5 @@
 }]]></content>
     <tabTrigger>function</tabTrigger>
     <scope>source.actionscript.3</scope>
-    <description>Function</description>
+    <description>AS3 Utils</description>
 </snippet>

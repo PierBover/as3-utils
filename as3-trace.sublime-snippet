@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-trace(${1:message});$2
-]]></content>
-	<tabTrigger>trace</tabTrigger>
-	<scope>source.actionscript.3</scope>
-</snippet>
-
-

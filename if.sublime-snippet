@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if( ${1:condition} ${4: ${2:==} ${3:value} })${5:\{
+	$0
+\}}
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
+</snippet>

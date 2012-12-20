@@ -1,11 +1,10 @@
 <snippet>
 	<content><![CDATA[
-while(${1:condition}){
-	$0
-}
+trace(${1:message});$2
 ]]></content>
-	<tabTrigger>while</tabTrigger>
+	<tabTrigger>trace</tabTrigger>
 	<scope>source.actionscript.3</scope>
+	<description>AS3 Utils</description>
 </snippet>
 
 
